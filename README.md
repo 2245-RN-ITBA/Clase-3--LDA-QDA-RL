@@ -1,1 +1,1 @@
-# Clase 4: LDA, QDA y Regresión Logística
+# Clase 3: LDA, QDA y Regresión Logística
